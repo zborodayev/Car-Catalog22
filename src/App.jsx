@@ -1,5 +1,5 @@
 export const App = () => {
   return (
-    <h1>hii</h1>
+    <h1>hiwi</h1>
   )
 }
